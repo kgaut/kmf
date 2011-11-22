@@ -8,7 +8,6 @@
 	</head>
 	<body>
 		<div id="wrapper">
-            <p>ma pageee!</p>
 		</div>
 	</body>
 </html>
