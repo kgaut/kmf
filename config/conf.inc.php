@@ -7,7 +7,7 @@ $debug_var = array();
 $DB_HOST=''; //serveur de base de données, localhost
 $DB_BASE=''; //nom de la base de données
 $DB_USER=''; //utilisateur se connectant à la base de données (généralement root)
-$DB_PASS=''; //mot de passe de connextion à la base de données
+$DB_PASS=''; //mot de passe de connexion à la base de données
 
 
 //on ne se connecte que si les infos sont rentrées
